@@ -20,4 +20,3 @@ O projeto conta com uma documentação detalhada, que foi utilizada na apresenta
 - Uso da biblioteca de estilização Chakra UI.
 - Uso do framework Express para criação do servidor web.
 - Utilização da ferramenta Body Parser para trabalhar com requisições do client.
-- 
